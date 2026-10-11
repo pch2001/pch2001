@@ -70,25 +70,6 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
   </tr>
 </table>
 
-### TFT 모작 · 서버 상태와 화면 표현 연결
-
-- **게임 흐름**: GameMode에서 라운드를 진행하고, GameState에 공유 상태를, PlayerState에 플레이어별 데이터를 배치했습니다. 라운드 종류와 진행 시간은 DataTable로 관리했습니다.
-- **레벨 전환과 동기화**: ServerTravel과 Seamless Travel을 연결하고, `CopyProperties()`·`OverrideWith()`로 로비의 이름·아이콘·보드 정보를 유지했습니다. 챔피언 생성 요청과 이동 상태는 Server RPC·Replication으로 전달했습니다.
-- **룰렛과 HUD**: 천사·악마·꽝 룰렛을 기획·개발했습니다. 결과는 서버에서 결정하고 클라이언트에서 연출했습니다. `ELTFHUDMode`와 `ApplyHUDMode()`로 화면 전환 규칙을 모았습니다.
-- **문제 해결**: 두 시스템이 동시에 위치를 갱신해 발생한 기물 떨림을 분석하고, 위치 갱신을 한곳으로 통합했습니다.
-
-### 명조 모작 · 공통 능력치 구조와 전투 연출
-
-- **컴포넌트 구조 개선**: 부모·자식 클래스에서 Stat Component가 중복 생성되는 문제를 `SetDefaultSubobjectClass`로 수정했습니다. 생성 책임을 부모에 유지하고 캐릭터마다 하나의 Stat을 참조하도록 정리했습니다.
-- **전투 피드백**: 능력치와 게이지를 UMG에 연결하고, 피해량 표시와 락온 대상 강조를 구현했습니다. Level Sequence·Animation Blueprint·Widget Blueprint로 보스전과 시네마틱을 연결했습니다.
-- **월드 구성**: World Partition으로 월드를 셀 단위로 관리하고, PCG의 거리·LOD 기준을 조정해 식생의 생성·표시 범위를 관리했습니다.
-
-### Minecraft 모작 · 데이터 기반 블록과 인벤토리
-
-- **블록 관리**: 개별 블록 Actor를 유형별 ISM으로 통합했습니다. WorldManager에서 블록 데이터와 인스턴스 인덱스를 관리해 설치·파괴·선택 기능을 유지했습니다.
-- **데이터 분리**: CSV·DataTable의 `RowName`을 공통 식별자로 사용했습니다. 블록·아이템의 정의와 월드에서 변하는 상태를 나눠, 데이터 행과 에셋을 추가하는 방식으로 콘텐츠를 확장하도록 구성했습니다.
-- **상태와 UI 갱신**: Per Instance Custom Data로 파괴 진행률과 조준 강조를 표시했습니다. 인벤토리 슬롯 데이터가 바뀌면 Dispatcher로 인벤토리와 핫바를 함께 갱신했습니다.
-
 ## 프로젝트 이력
 
 ### 🎮 2026 · Unreal Engine과 C++ 시스템 개발
@@ -108,6 +89,14 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 ### 🌱 2024 — 2025 · 게임 개발과 팀 운영
 
 - [**BreathLine · 창업동아리 GR팀**](https://github.com/pch2001/BreathLine) — Unity · 8인 팀 · 2024.03 — 2025.09<br>사회적 메시지를 담은 2D 기능성 게임의 플레이어 스크립트·최종 보스·시나리오 구조 개발. 팀 대표로 주간 회의, 일정 관리, 캐릭터 아트 외주 조율과 전시·공모전 참여 진행 · [시연 영상](https://www.youtube.com/watch?v=r_FlLbikoHo)
+
+### 🌱 2024 · 게임 개발
+
+- [VR ZombieGame](https://www.youtube.com/watch?v=VV8J4VAQezw) - Unity 개인프로젝트
+- [AR Hookemon](https://www.youtube.com/shorts/UTA-18j7ypg) - Unity 개인프로젝트
+- [LOL 동물특공대](https://www.youtube.com/watch?v=VV8J4VAQezw) - Unreal 개인 프로젝트
+- [MonsterHunter](https://www.youtube.com/watch?v=G9nH8kRrGDM) - Unity · 2인 팀, 2/3일 해커톤
+
 
 ## 경력과 교육
 
