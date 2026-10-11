@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">박창후 게임 클라이언트 개발자</title>
+  <desc id="desc">Unreal Engine과 C++로 게임 시스템을 개발하는 박창후의 GitHub 프로필</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e29"/><stop offset="1" stop-color="#163e40"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#72e4c5"/><stop offset="1" stop-color="#89bfff"/></linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#79d5c5" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="250" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="250" rx="16" fill="url(#grid)"/>
+  <rect x="58" y="55" width="5" height="140" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Malgun Gothic,Apple SD Gothic Neo,sans-serif">
+    <text x="88" y="102" font-size="44" font-weight="700" letter-spacing="2" fill="#f0f8fa">PARK CHANG HOO</text>
+    <text x="90" y="151" font-size="29" font-weight="600" fill="#c6e3df">게임 클라이언트 개발자</text>
+    <text x="90" y="190" font-size="18" fill="#96b8bd">C++ · Unreal Engine · Unity</text>
+  </g>
+  <g transform="translate(850 40)" stroke-width="1.6">
+    <path d="M75 22L142 60L142 138L75 176L8 138L8 60Z" fill="#235351" fill-opacity=".65" stroke="#83d7c7"/>
+    <path d="M75 22V98L142 60M75 98L8 60M75 98V176" stroke="#83d7c7" stroke-opacity=".6" fill="none"/>
+    <path d="M142 60L210 22L278 60L278 138L210 176L142 138" stroke="#86b5d6" stroke-opacity=".5" fill="none"/>
+    <path d="M210 22V98L278 60M210 98L142 60M210 98V176" stroke="#86b5d6" stroke-opacity=".3" fill="none"/>
+    <g fill="#9de5d4" stroke="none"><circle cx="75" cy="98" r="5"/><circle cx="8" cy="60" r="3"/><circle cx="142" cy="138" r="3"/></g>
+  </g>
+  <path d="M650 249H1184" stroke="url(#accent)" stroke-width="3"/>
+</svg>
