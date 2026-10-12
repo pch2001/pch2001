@@ -1,6 +1,6 @@
 <div align="center">
 
-![박창후 게임 클라이언트 개발자](./assets/header.svg)
+![박창후 클라이언트 개발자](./assets/header.svg)
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#기술-역량) [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](#기술-역량) [![C#](https://img.shields.io/badge/C%23-436B50?style=flat-square)](#기술-역량) [![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white)](#기술-역량)
 
@@ -10,13 +10,13 @@
 
 ## 소개
 
-안녕하세요. **Unreal Engine과 C++를 중심으로 게임 클라이언트를 개발하는 박창후**입니다.
+안녕하세요. **Unreal Engine과 C++를 중심으로 클라이언트를 개발하는 박창후**입니다.
 
 게임의 규칙과 데이터가 플레이어의 화면에 어떻게 전달되는지 고민하며 개발합니다. TFT 모작에서는 전용 서버 기반 게임 흐름과 상태 동기화를, 명조 모작에서는 공통 능력치 구조와 전투 UI를, Minecraft 모작에서는 데이터 기반 블록 관리와 인벤토리를 구현했습니다.
 
 SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 경험이 있습니다. 문제가 생기면 객체의 역할과 데이터 갱신 흐름을 따라 원인을 찾고, 수정 과정과 결과를 블로그와 시연 영상으로 기록합니다.
 
-현재는 **3인칭 소울라이크 팀 프로젝트 Maverick**에서 보스 AI와 공격 패턴, 화면 전환을 개발하며 전투 흐름과 피드백을 개선하고 있습니다.
+현재는 3인칭 소울라이크 팀 프로젝트 Maverick에서 보스 AI와 공격 패턴, 화면 전환을 개발하며 전투 흐름과 피드백을 개선하고 있습니다.
 
 ## 진행 중인 프로젝트
 
@@ -35,7 +35,7 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 
 ## 대표 프로젝트
 
-이미지를 클릭하면 시연 영상으로 이동합니다. 각 카드 아래에서 시연 영상, 개발 기록과 회고록을 확인할 수 있습니다. 아래 내용은 각 프로젝트에서 **제가 담당한 작업**입니다.
+이미지를 클릭하면 시연 영상으로 이동합니다. 각 카드 아래에서 시연 영상, 개발 기록과 회고록을 확인할 수 있습니다. 아래 내용은 각 프로젝트에서 제가 담당한 작업입니다.
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 ### 🎮 2026 · Unreal Engine과 C++ 시스템 개발
 
 - [**매버릭 · Maverick (개발 중)**](https://github.com/DreamersStudio3/Maverick) — StateTree 기반 적 AI, 보스 공격 패턴·사슬 스킬, 로딩 화면과 화면 전환
-- [**TFT 모작 · LTF**](https://github.com/LTF-UTF/LTF) — 전용 서버 게임 루프, 로비 전환, 룰렛, HUD 구현 · 최우수상
+- [**TFT 모작**](https://github.com/LTF-UTF/LTF) — 전용 서버 게임 루프, 로비 전환, 룰렛, HUD 구현 · 최우수상
 - [**명조 모작**](https://github.com/pch2001/Myeongjo) — 능력치 컴포넌트, 전투 UI, 시퀀스, 월드 구성
 - [**Minecraft 모작**](https://github.com/pch2001/Minecraft) — Blueprint 기반 블록 조작, ISM, 인벤토리
 - [**이스라엘 디펜스 · C++ 콘솔 게임**](https://www.youtube.com/watch?v=bPuzSlUIzpk) — A* 경로 탐색, 충돌·피격 처리, 라운드와 상점 시스템 · 2026.02 / 2026.03 · [개발 기록](https://hoo2001.tistory.com/37)
@@ -96,37 +96,6 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 - [AR Hookemon](https://www.youtube.com/shorts/UTA-18j7ypg) - Unity 개인프로젝트
 - [LOL 동물특공대](https://www.youtube.com/watch?v=VV8J4VAQezw) - Unreal 개인 프로젝트
 - [MonsterHunter](https://www.youtube.com/watch?v=G9nH8kRrGDM) - Unity · 2인 팀, 2/3일 해커톤
-
-
-## 경력과 교육
-
-| 기간 | 소속 | 경험 |
-| --- | --- | --- |
-| 2026.01.19 — 2026.07.16 | **원티드 포텐업 · 게임 개발자 양성과정 4th** | 960시간 교육 수료. C++ 자체 엔진 제작과 UE 5.6 프로젝트 3개 진행 |
-| 2020.03 — 2026.03 | **한림대학교 · 콘텐츠IT학과** | 학사 · VR/AR/게임 개발 트랙 · 학점 3.93 / 4.5 |
-| 2025.09 — 2025.12 | **SLZ · 디지털 트윈스 팀** | Unreal Engine 개발자로 날씨 인포그래픽, AI 자동 라벨링, 3D 경로 편집과 실시간 시각화 기능 개발 |
-| 2025.08.22 — 2025.08.25 | **넥슨코리아 · 메이플스토리 직무 멘토링** | 현직자 직무 교육, 게임잼형 프로젝트와 피드백 |
-
-
-## 수상과 활동
-
-- **원티드 포텐업 최종 프로젝트 대회 · 최우수상** — TFT 모작 LTF · 2026
-- **SW 캡스톤 디자인 경진대회 · 동상** — 인생게임 · 한림대학교 · 2025.06.05
-- **AI 활용 공모전 · 장려상** — 한림대학교 · 2025.05.20
-- **SW 코딩테스트 · 2등** — 한림대학교 · 2024.11.27
-- **우수동아리 전시회 · 동상** — MonsterHunter 기획·개발 및 전시 · 한림대학교 · 2024.11.07
-
-## 기술 역량
-
-| 분야 | 프로젝트에서 사용한 기술 |
-| --- | --- |
-| 언어와 엔진 | C++ · C# · Unreal Engine 5.4 / 5.6 / 5.8 · Blueprint · Unity |
-| 적 AI와 보스 패턴 | StateTree · AI Task · DataTable 기반 공격 선택 · Animation Montage · AnimNotify |
-| 멀티플레이 | 전용 서버 · Server / Client RPC · Multicast · Replication · Seamless Travel |
-| 게임 구조와 데이터 | GameMode · GameState · PlayerState · Actor Component · CSV / DataTable |
-| UI와 연출 | UMG · Widget Blueprint · Level Sequence · Animation Blueprint · 머티리얼 |
-| 월드와 블록 관리 | World Partition · PCG · ISM · Per Instance Custom Data |
-| 협업과 기록 | Git / GitHub · 팀 일정 관리 · 직군 간 협업 · 개발 블로그 · 시연 영상 |
 
 ---
 
