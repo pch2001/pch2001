@@ -68,21 +68,20 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
 
 ### 🎮 2026 · Unreal Engine과 C++ 시스템 개발
 
-- [**매버릭 · Maverick (개발 중)**](https://github.com/DreamersStudio3/Maverick)
-- [**TFT 모작**](https://github.com/LTF-UTF/LTF)
-- [**명조 모작**](https://github.com/pch2001/Myeongjo)
-- [**Minecraft 모작**](https://github.com/pch2001/Minecraft)
-- [**이스라엘 디펜스 · C++ 콘솔 게임**](https://www.youtube.com/watch?v=bPuzSlUIzpk)
-- [**C++ 콘솔 엔진 · Hoo_ConsoleEngine**](https://github.com/pch2001/Hoo_ConsoleEngine)
+- [**매버릭 · Maverick (개발 중)**](https://github.com/DreamersStudio3/Maverick) - Unreal 8인 팀
+- [**TFT 모작**](https://github.com/LTF-UTF/LTF) - Unreal 5인 프로젝트
+- [**명조 모작**](https://github.com/pch2001/Myeongjo) - Unreal 3인 프로젝트
+- [**Minecraft 모작**](https://github.com/pch2001/Minecraft) - Unreal 개인프로젝트
+- [**이스라엘 디펜스 · C++ 콘솔 게임**](https://github.com/pch2001/Hoo_ConsoleEngine) -콘솔 개인 프로젝트
 
 ### 🥽 2025 · 멀티플레이와 직무 경험
 
-- [**인생게임 · 캡스톤 디자인**](https://github.com/Jinmiru/sw-capstone-design)
-- [**MaCook · 메이플스토리 직무 멘토링**](https://github.com/pch2001/MaCook)
+- [**인생게임 · 캡스톤 디자인**](https://github.com/Jinmiru/sw-capstone-design) - Unreal 3인 프로젝트
+- [**MaCook · 메이플스토리 직무 멘토링**](https://github.com/pch2001/MaCook) - Unity 5인 프로젝트
 
 ### 🌱 2024 — 2025 · 게임 개발과 팀 운영
 
-- [**BreathLine · 창업동아리 GR팀**](https://github.com/pch2001/BreathLine)
+- [**BreathLine · 창업동아리 GR팀**](https://github.com/pch2001/BreathLine) - Unity 8인 프로젝트
   
 ### 🌱 2024 · 게임 개발
 
