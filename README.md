@@ -66,29 +66,20 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
 
 ## 프로젝트 이력
 
-### 🎮 2026 · Unreal Engine과 C++ 시스템 개발
-
-- [**매버릭 · Maverick (개발 중)**](https://github.com/DreamersStudio3/Maverick) - Unreal 8인 팀
-- [**TFT 모작**](https://github.com/LTF-UTF/LTF) - Unreal 5인 프로젝트
-- [**명조 모작**](https://github.com/WuWa-NNNA/WuWa) - Unreal 3인 프로젝트
-- [**Minecraft 모작**](https://github.com/pch2001/Minecraft) - Unreal 개인프로젝트
-- [**이스라엘 디펜스 · C++ 콘솔 게임**](https://github.com/pch2001/Hoo_ConsoleEngine) -콘솔 개인 프로젝트
-
-### 🥽 2025 · 멀티플레이와 직무 경험
-
-- [**인생게임 · 캡스톤 디자인**](https://github.com/Jinmiru/sw-capstone-design) - Unreal 3인 프로젝트
-- [**MaCook · 메이플스토리 직무 멘토링**](https://github.com/pch2001/MaCook) - Unity 5인 프로젝트
-
-### 🌱 2024 — 2025 · 게임 개발과 팀 운영
-
-- [**BreathLine · 창업동아리 GR팀**](https://github.com/pch2001/BreathLine) - Unity 8인 프로젝트
-  
-### 🌱 2024 · 게임 개발
-
-- [VR ZombieGame](https://www.youtube.com/watch?v=VV8J4VAQezw) - Unity 개인프로젝트
-- [AR Hookemon](https://www.youtube.com/shorts/UTA-18j7ypg) - Unity 개인프로젝트
-- [LOL 동물특공대](https://www.youtube.com/watch?v=VV8J4VAQezw) - Unreal 개인 프로젝트
-- [MonsterHunter](https://www.youtube.com/watch?v=G9nH8kRrGDM) - Unity · 2인 팀, 2/3일 해커톤
+| 기간 | 프로젝트 | 기술 | 구성 | 자료 |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026<br>**개발 중** | **매버릭 · Maverick** | UE 5.8<br>C++ · Blueprint | 8인 팀 | [저장소](https://github.com/DreamersStudio3/Maverick)<br>[기록 1](https://hoo2001.tistory.com/64) · [기록 2](https://hoo2001.tistory.com/67) · [기록 3](https://hoo2001.tistory.com/73) |
+| 2026.06.30<br>~ 2026.07.13 | **TFT 모작 · LTF** | UE 5.6<br>C++ | 5인 팀 | [저장소](https://github.com/LTF-UTF/LTF) · [시연 영상](https://www.youtube.com/watch?v=5CpVqWKCEx4)<br>[개발 기록](https://hoo2001.tistory.com/62) · [회고록](https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73) |
+| 2026.05.06<br>~ 2026.05.27 | **명조 모작** | UE 5.6<br>C++ | 3인 팀 | [저장소](https://github.com/WuWa-NNNA/WuWa) · [시연 영상](https://www.youtube.com/watch?v=9skfkhyv1f4)<br>[개발 기록](https://hoo2001.tistory.com/61) · [회고록](https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73) |
+| 2026.03.24<br>~ 2026.04.06 | **Minecraft 모작** | UE 5.6<br>Blueprint | 개인 | [저장소](https://github.com/pch2001/Minecraft) · [시연 영상](https://www.youtube.com/watch?v=8Dv6HJHVmgk)<br>[개발 기록](https://hoo2001.tistory.com/47) · [회고록](https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74) |
+| 2026 | **이스라엘 디펜스**<br>C++ 콘솔 게임 | C++ | 개인 | [저장소](https://github.com/pch2001/Hoo_ConsoleEngine) |
+| 2025 | **인생게임**<br>캡스톤 디자인 | Unreal Engine | 3인 팀 | [저장소](https://github.com/Jinmiru/sw-capstone-design) |
+| 2025 | **MaCook**<br>메이플스토리 직무 멘토링 | Unity | 5인 팀 | [저장소](https://github.com/pch2001/MaCook) |
+| 2024 ~ 2025 | **BreathLine**<br>창업동아리 GR팀 | Unity | 8인 팀 | [저장소](https://github.com/pch2001/BreathLine) |
+| 2024 | **VR ZombieGame** | Unity | 개인 | [시연 영상](https://www.youtube.com/watch?v=VV8J4VAQezw) |
+| 2024 | **AR Hookemon** | Unity | 개인 | [시연 영상](https://www.youtube.com/shorts/UTA-18j7ypg) |
+| 2024 | **LOL 동물특공대** | Unreal Engine | 개인 | [시연 영상](https://www.youtube.com/watch?v=VV8J4VAQezw) |
+| 2024 | **MonsterHunter** | Unity | 2인 팀<br>2/3일 해커톤 | [시연 영상](https://www.youtube.com/watch?v=G9nH8kRrGDM) |
 
 ---
 
