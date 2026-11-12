@@ -18,51 +18,6 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 
 현재는 3인칭 소울라이크 팀 프로젝트 Maverick에서 보스 AI와 공격 패턴, 화면 전환을 개발하며 전투 흐름과 피드백을 개선하고 있습니다.
 
-## 진행 중인 프로젝트
-
-### [매버릭 · Maverick](https://github.com/DreamersStudio3/Maverick)
-
-**개발 중 · Unreal Engine 5.8 · C++ · Blueprint · 팀 프로젝트**
-
-3인칭 소울라이크 게임을 제작하고 있습니다. 아래는 프로젝트에서 담당한 작업과 현재 개선하고 있는 내용입니다.
-
-StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백, 화면 전환
-
-[Git 코드](https://github.com/DreamersStudio3/Maverick) · [개발 기록 1](https://hoo2001.tistory.com/64) · [개발 기록 2](https://hoo2001.tistory.com/67) · [개발 기록 3](https://hoo2001.tistory.com/73)
-
-## 대표 프로젝트
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4&t=985s"><img src="./assets/tft-ltf.png" width="260" alt="TFT 모작 LTF의 천사·악마 룰렛 결과 화면"></a>
-      <br><b>TFT 모작 · LTF</b>
-      <br><sub>UE 5.6 · C++ · 5인 팀</sub>
-      <br><sub>2026</sub>
-      <br><br>전용 서버 게임 루프<br>로비 전환 · 룰렛 · HUD
-      <br><br><a href="https://github.com/LTF-UTF/LTF">Git 코드</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a>
-      <br><a href="https://hoo2001.tistory.com/62">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73">회고록</a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=9skfkhyv1f4&t=106s"><img src="./assets/myeongjo.png" width="260" alt="명조 모작의 보스전과 전투 UI 화면"></a>
-      <br><b>명조 모작</b>
-      <br><sub>UE 5.6 · C++ · 3인 팀</sub>
-      <br><sub>2026</sub>
-      <br><br>Stat Component · 전투 UI<br>보스전 연출 · 월드 구성
-      <br><br><a href="https://github.com/pch2001/Myeongjo">Git 코드</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a>
-      <br><a href="https://hoo2001.tistory.com/61">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73">회고록</a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk"><img src="./assets/minecraft.png" width="260" alt="Minecraft 모작의 인벤토리와 핫바 화면"></a>
-      <br><b>Minecraft 모작</b>
-      <br><sub>UE 5.6 · Blueprint · 개인</sub>
-      <br><sub>2026</sub>
-      <br><br>ISM 기반 블록 관리<br>DataTable · 인벤토리 · 핫바
-      <br><br><a href="https://github.com/pch2001/Minecraft">Git 코드</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a>
-      <br><a href="https://hoo2001.tistory.com/47">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74">회고록</a>
-    </td>
-  </tr>
-</table>
 
 ## 프로젝트 이력
 
