@@ -66,20 +66,103 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
 
 ## 프로젝트 이력
 
-| 기간 | 프로젝트 | 기술 | 구성 | 자료 |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026<br>**개발 중** | **매버릭 · Maverick** | UE 5.8<br>C++ · Blueprint | 8인 팀 | [저장소](https://github.com/DreamersStudio3/Maverick)<br>[기록 1](https://hoo2001.tistory.com/64) · [기록 2](https://hoo2001.tistory.com/67) · [기록 3](https://hoo2001.tistory.com/73) |
-| 2026.06.30<br>~ 2026.07.13 | **TFT 모작 · LTF** | UE 5.6<br>C++ | 5인 팀 | [저장소](https://github.com/LTF-UTF/LTF) · [시연 영상](https://www.youtube.com/watch?v=5CpVqWKCEx4)<br>[개발 기록](https://hoo2001.tistory.com/62) · [회고록](https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73) |
-| 2026.05.06<br>~ 2026.05.27 | **명조 모작** | UE 5.6<br>C++ | 3인 팀 | [저장소](https://github.com/WuWa-NNNA/WuWa) · [시연 영상](https://www.youtube.com/watch?v=9skfkhyv1f4)<br>[개발 기록](https://hoo2001.tistory.com/61) · [회고록](https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73) |
-| 2026.03.24<br>~ 2026.04.06 | **Minecraft 모작** | UE 5.6<br>Blueprint | 개인 | [저장소](https://github.com/pch2001/Minecraft) · [시연 영상](https://www.youtube.com/watch?v=8Dv6HJHVmgk)<br>[개발 기록](https://hoo2001.tistory.com/47) · [회고록](https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74) |
-| 2026 | **이스라엘 디펜스**<br>C++ 콘솔 게임 | C++ | 개인 | [저장소](https://github.com/pch2001/Hoo_ConsoleEngine) |
-| 2025 | **인생게임**<br>캡스톤 디자인 | Unreal Engine | 3인 팀 | [저장소](https://github.com/Jinmiru/sw-capstone-design) |
-| 2025 | **MaCook**<br>메이플스토리 직무 멘토링 | Unity | 5인 팀 | [저장소](https://github.com/pch2001/MaCook) |
-| 2024 ~ 2025 | **BreathLine**<br>창업동아리 GR팀 | Unity | 8인 팀 | [저장소](https://github.com/pch2001/BreathLine) |
-| 2024 | **VR ZombieGame** | Unity | 개인 | [시연 영상](https://www.youtube.com/watch?v=VV8J4VAQezw) |
-| 2024 | **AR Hookemon** | Unity | 개인 | [시연 영상](https://www.youtube.com/shorts/UTA-18j7ypg) |
-| 2024 | **LOL 동물특공대** | Unreal Engine | 개인 | [시연 영상](https://www.youtube.com/watch?v=VV8J4VAQezw) |
-| 2024 | **MonsterHunter** | Unity | 2인 팀<br>2/3일 해커톤 | [시연 영상](https://www.youtube.com/watch?v=G9nH8kRrGDM) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th scope="col" width="16%" align="center">기간</th>
+      <th scope="col" width="29%" align="left">프로젝트</th>
+      <th scope="col" width="16%" align="left">기술</th>
+      <th scope="col" width="11%" align="center">구성</th>
+      <th scope="col" width="28%" align="left">자료</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">2026<br><strong>개발 중</strong></td>
+      <td align="left"><strong>매버릭 · Maverick</strong></td>
+      <td align="left">UE 5.8<br>C++ · Blueprint</td>
+      <td align="center">8인 팀</td>
+      <td align="left"><a href="https://github.com/DreamersStudio3/Maverick">저장소</a><br><a href="https://hoo2001.tistory.com/64">기록 1</a> · <a href="https://hoo2001.tistory.com/67">기록 2</a> · <a href="https://hoo2001.tistory.com/73">기록 3</a></td>
+    </tr>
+    <tr>
+      <td align="center">2026.06.30<br>~ 2026.07.13</td>
+      <td align="left"><strong>TFT 모작 · LTF</strong></td>
+      <td align="left">UE 5.6<br>C++</td>
+      <td align="center">5인 팀</td>
+      <td align="left"><a href="https://github.com/LTF-UTF/LTF">저장소</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a><br><a href="https://hoo2001.tistory.com/62">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73">회고록</a></td>
+    </tr>
+    <tr>
+      <td align="center">2026.05.06<br>~ 2026.05.27</td>
+      <td align="left"><strong>명조 모작</strong></td>
+      <td align="left">UE 5.6<br>C++</td>
+      <td align="center">3인 팀</td>
+      <td align="left"><a href="https://github.com/WuWa-NNNA/WuWa">저장소</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a><br><a href="https://hoo2001.tistory.com/61">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73">회고록</a></td>
+    </tr>
+    <tr>
+      <td align="center">2026.03.24<br>~ 2026.04.06</td>
+      <td align="left"><strong>Minecraft 모작</strong></td>
+      <td align="left">UE 5.6<br>Blueprint</td>
+      <td align="center">개인</td>
+      <td align="left"><a href="https://github.com/pch2001/Minecraft">저장소</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a><br><a href="https://hoo2001.tistory.com/47">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74">회고록</a></td>
+    </tr>
+    <tr>
+      <td align="center">2026</td>
+      <td align="left"><strong>이스라엘 디펜스</strong><br>C++ 콘솔 게임</td>
+      <td align="left">C++</td>
+      <td align="center">개인</td>
+      <td align="left"><a href="https://github.com/pch2001/Hoo_ConsoleEngine">저장소</a></td>
+    </tr>
+    <tr>
+      <td align="center">2025</td>
+      <td align="left"><strong>인생게임</strong><br>캡스톤 디자인</td>
+      <td align="left">Unreal Engine</td>
+      <td align="center">3인 팀</td>
+      <td align="left"><a href="https://github.com/Jinmiru/sw-capstone-design">저장소</a></td>
+    </tr>
+    <tr>
+      <td align="center">2025</td>
+      <td align="left"><strong>MaCook</strong><br>메이플스토리 직무 멘토링</td>
+      <td align="left">Unity</td>
+      <td align="center">5인 팀</td>
+      <td align="left"><a href="https://github.com/pch2001/MaCook">저장소</a></td>
+    </tr>
+    <tr>
+      <td align="center">2024 ~ 2025</td>
+      <td align="left"><strong>BreathLine</strong><br>창업동아리 GR팀</td>
+      <td align="left">Unity</td>
+      <td align="center">8인 팀</td>
+      <td align="left"><a href="https://github.com/pch2001/BreathLine">저장소</a></td>
+    </tr>
+    <tr>
+      <td align="center">2024</td>
+      <td align="left"><strong>VR ZombieGame</strong></td>
+      <td align="left">Unity</td>
+      <td align="center">개인</td>
+      <td align="left"><a href="https://www.youtube.com/watch?v=VV8J4VAQezw">시연 영상</a></td>
+    </tr>
+    <tr>
+      <td align="center">2024</td>
+      <td align="left"><strong>AR Hookemon</strong></td>
+      <td align="left">Unity</td>
+      <td align="center">개인</td>
+      <td align="left"><a href="https://www.youtube.com/shorts/UTA-18j7ypg">시연 영상</a></td>
+    </tr>
+    <tr>
+      <td align="center">2024</td>
+      <td align="left"><strong>LOL 동물특공대</strong></td>
+      <td align="left">Unreal Engine</td>
+      <td align="center">개인</td>
+      <td align="left"><a href="https://www.youtube.com/watch?v=VV8J4VAQezw">시연 영상</a></td>
+    </tr>
+    <tr>
+      <td align="center">2024</td>
+      <td align="left"><strong>MonsterHunter</strong></td>
+      <td align="left">Unity</td>
+      <td align="center">2인 팀<br>2/3일 해커톤</td>
+      <td align="left"><a href="https://www.youtube.com/watch?v=G9nH8kRrGDM">시연 영상</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
