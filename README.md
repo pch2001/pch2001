@@ -66,7 +66,7 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
 
 ## 프로젝트 이력
 
-<table width="100%">
+<table width="120%">
   <thead>
     <tr>
       <th scope="col" width="16%" align="center">기간</th>
@@ -80,7 +80,7 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
     <tr>
       <td align="center">2026</td>
       <td align="left"><strong>매버릭 · Maverick</strong><br>개발 중</td>
-      <td align="left">UE 5.8<br>C++ · Blueprint</td>
+      <td align="left">UE 5.8<br>C++</td>
       <td align="center">8인 팀</td>
       <td align="left"><a href="https://github.com/DreamersStudio3/Maverick">Git 코드</a><br><a href="https://hoo2001.tistory.com/64">기록 1</a> · <a href="https://hoo2001.tistory.com/67">기록 2</a> · <a href="https://hoo2001.tistory.com/73">기록 3</a></td>
     </tr>
@@ -115,7 +115,7 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
     <tr>
       <td align="center">2025</td>
       <td align="left"><strong>인생게임</strong><br>캡스톤 디자인</td>
-      <td align="left">Unreal Engine</td>
+      <td align="left">UE 5.4</td>
       <td align="center">3인 팀</td>
       <td align="left"><a href="https://github.com/Jinmiru/sw-capstone-design">Git 코드</a> · <a href="https://www.youtube.com/watch?v=R9aDqsHigTw&amp;t=27s">시연 영상</a></td>
     </tr>
@@ -158,7 +158,7 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
       <td align="center">2024</td>
       <td align="left"><strong>MonsterHunter</strong></td>
       <td align="left">Unity</td>
-      <td align="center">2인 팀<br>2/3일 해커톤</td>
+      <td align="center">2인 팀</td>
       <td align="left"><a href="https://github.com/pch2001/MonsterHunter">Git 코드</a> · <a href="https://www.youtube.com/watch?v=G9nH8kRrGDM">시연 영상</a></td>
     </tr>
   </tbody>
