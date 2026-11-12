@@ -66,8 +66,7 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
 
 ## 프로젝트 이력
 
-<table width="120%">
-  <thead>
+<table width="100%" align="center">  <thead>
     <tr>
       <th scope="col" width="16%" align="center">기간</th>
       <th scope="col" width="29%" align="left">프로젝트</th>
@@ -80,35 +79,35 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
     <tr>
       <td align="center">2026</td>
       <td align="left"><strong>매버릭 · Maverick</strong><br>개발 중</td>
-      <td align="left">UE 5.8<br>C++</td>
+      <td align="left">UE 5.8</td>
       <td align="center">8인 팀</td>
       <td align="left"><a href="https://github.com/DreamersStudio3/Maverick">Git 코드</a><br><a href="https://hoo2001.tistory.com/64">기록 1</a> · <a href="https://hoo2001.tistory.com/67">기록 2</a> · <a href="https://hoo2001.tistory.com/73">기록 3</a></td>
     </tr>
     <tr>
       <td align="center">2026</td>
       <td align="left"><strong>TFT 모작 · LTF</strong></td>
-      <td align="left">UE 5.6<br>C++</td>
+      <td align="left">UE 5.6</td>
       <td align="center">5인 팀</td>
       <td align="left"><a href="https://github.com/LTF-UTF/LTF">Git 코드</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a><br><a href="https://hoo2001.tistory.com/62">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73">회고록</a></td>
     </tr>
     <tr>
       <td align="center">2026</td>
       <td align="left"><strong>명조 모작</strong></td>
-      <td align="left">UE 5.6<br>C++</td>
+      <td align="left">UE 5.6</td>
       <td align="center">3인 팀</td>
       <td align="left"><a href="https://github.com/WuWa-NNNA/WuWa">Git 코드</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a><br><a href="https://hoo2001.tistory.com/61">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73">회고록</a></td>
     </tr>
     <tr>
       <td align="center">2026</td>
       <td align="left"><strong>Minecraft 모작</strong></td>
-      <td align="left">UE 5.6<br>Blueprint</td>
+      <td align="left">UE 5.6</td>
       <td align="center">개인</td>
       <td align="left"><a href="https://github.com/pch2001/Minecraft">Git 코드</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a><br><a href="https://hoo2001.tistory.com/47">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74">회고록</a></td>
     </tr>
     <tr>
       <td align="center">2026</td>
-      <td align="left"><strong>이스라엘 디펜스</strong><br>C++ 콘솔 게임</td>
-      <td align="left">C++</td>
+      <td align="left"><strong>이스라엘 디펜스</strong></td>
+      <td align="left">C++ 콘솔 게임</td>
       <td align="center">개인</td>
       <td align="left"><a href="https://github.com/pch2001/Hoo_ConsoleEngine">Git 코드</a> · <a href="https://www.youtube.com/watch?v=bPuzSlUIzpk">시연 영상</a></td>
     </tr>
@@ -150,7 +149,7 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
     <tr>
       <td align="center">2024</td>
       <td align="left"><strong>LOL 동물특공대</strong></td>
-      <td align="left">Unreal Engine</td>
+      <td align="left">UE5.4</td>
       <td align="center">개인</td>
       <td align="left"><a href="https://github.com/pch2001/LOL">Git 코드</a> · <a href="https://www.youtube.com/watch?v=I8QUQ87MfYE">시연 영상</a></td>
     </tr>
