@@ -2,7 +2,7 @@
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#기술-역량) [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](#기술-역량) [![C#](https://img.shields.io/badge/C%23-436B50?style=flat-square)](#기술-역량) [![Unity](https://img.shields.io/badge/Unity-333333?style=flat-square&logo=unity&logoColor=white)](#기술-역량)
 
-[이메일](mailto:pencil0303@naver.com) · [개발 블로그](https://hoo2001.tistory.com/) · [시연 영상 모음](https://www.youtube.com/@changhoo01/videos)
+개발 과정과 문제 해결 기록은 [블로그](https://hoo2001.tistory.com/)에, 프로젝트 실행 결과는 [YouTube 시연 영상 모음](https://www.youtube.com/@changhoo01/videos)에 정리하고 있습니다.
 
 </div>
 
@@ -119,5 +119,3 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 </table>
 
 ---
-
-개발 과정과 문제 해결 기록은 [블로그](https://hoo2001.tistory.com/)에, 프로젝트 실행 결과는 [YouTube 시연 영상 모음](https://www.youtube.com/@changhoo01/videos)에 정리하고 있습니다.
