@@ -28,7 +28,7 @@ SLZ 디지털 트윈스 팀에서 Unreal Engine 시각화 기능을 개발한 �
 
 StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백, 화면 전환
 
-[프로젝트 저장소](https://github.com/DreamersStudio3/Maverick) · [개발 기록 1](https://hoo2001.tistory.com/64) · [개발 기록 2](https://hoo2001.tistory.com/67) · [개발 기록 3](https://hoo2001.tistory.com/73)
+[Git 코드](https://github.com/DreamersStudio3/Maverick) · [개발 기록 1](https://hoo2001.tistory.com/64) · [개발 기록 2](https://hoo2001.tistory.com/67) · [개발 기록 3](https://hoo2001.tistory.com/73)
 
 ## 대표 프로젝트
 
@@ -38,27 +38,27 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
       <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4&t=985s"><img src="./assets/tft-ltf.png" width="260" alt="TFT 모작 LTF의 천사·악마 룰렛 결과 화면"></a>
       <br><b>TFT 모작 · LTF</b>
       <br><sub>UE 5.6 · C++ · 5인 팀</sub>
-      <br><sub>2026.06.30 — 2026.07.13</sub>
+      <br><sub>2026</sub>
       <br><br>전용 서버 게임 루프<br>로비 전환 · 룰렛 · HUD
-      <br><br><a href="https://github.com/LTF-UTF/LTF">저장소</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a>
+      <br><br><a href="https://github.com/LTF-UTF/LTF">Git 코드</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a>
       <br><a href="https://hoo2001.tistory.com/62">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73">회고록</a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=9skfkhyv1f4&t=106s"><img src="./assets/myeongjo.png" width="260" alt="명조 모작의 보스전과 전투 UI 화면"></a>
       <br><b>명조 모작</b>
       <br><sub>UE 5.6 · C++ · 3인 팀</sub>
-      <br><sub>2026.05.06 — 2026.05.27</sub>
+      <br><sub>2026</sub>
       <br><br>Stat Component · 전투 UI<br>보스전 연출 · 월드 구성
-      <br><br><a href="https://github.com/pch2001/Myeongjo">저장소</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a>
+      <br><br><a href="https://github.com/pch2001/Myeongjo">Git 코드</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a>
       <br><a href="https://hoo2001.tistory.com/61">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73">회고록</a>
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk"><img src="./assets/minecraft.png" width="260" alt="Minecraft 모작의 인벤토리와 핫바 화면"></a>
       <br><b>Minecraft 모작</b>
       <br><sub>UE 5.6 · Blueprint · 개인</sub>
-      <br><sub>2026.03.24 — 2026.04.06</sub>
+      <br><sub>2026</sub>
       <br><br>ISM 기반 블록 관리<br>DataTable · 인벤토리 · 핫바
-      <br><br><a href="https://github.com/pch2001/Minecraft">저장소</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a>
+      <br><br><a href="https://github.com/pch2001/Minecraft">Git 코드</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a>
       <br><a href="https://hoo2001.tistory.com/47">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74">회고록</a>
     </td>
   </tr>
@@ -78,67 +78,67 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
   </thead>
   <tbody>
     <tr>
-      <td align="center">2026<br><strong>개발 중</strong></td>
-      <td align="left"><strong>매버릭 · Maverick</strong></td>
+      <td align="center">2026</td>
+      <td align="left"><strong>매버릭 · Maverick</strong><br>개발 중</td>
       <td align="left">UE 5.8<br>C++ · Blueprint</td>
       <td align="center">8인 팀</td>
-      <td align="left"><a href="https://github.com/DreamersStudio3/Maverick">저장소</a><br><a href="https://hoo2001.tistory.com/64">기록 1</a> · <a href="https://hoo2001.tistory.com/67">기록 2</a> · <a href="https://hoo2001.tistory.com/73">기록 3</a></td>
+      <td align="left"><a href="https://github.com/DreamersStudio3/Maverick">Git 코드</a><br><a href="https://hoo2001.tistory.com/64">기록 1</a> · <a href="https://hoo2001.tistory.com/67">기록 2</a> · <a href="https://hoo2001.tistory.com/73">기록 3</a></td>
     </tr>
     <tr>
-      <td align="center">2026.06.30<br>~ 2026.07.13</td>
+      <td align="center">2026</td>
       <td align="left"><strong>TFT 모작 · LTF</strong></td>
       <td align="left">UE 5.6<br>C++</td>
       <td align="center">5인 팀</td>
-      <td align="left"><a href="https://github.com/LTF-UTF/LTF">저장소</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a><br><a href="https://hoo2001.tistory.com/62">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73">회고록</a></td>
+      <td align="left"><a href="https://github.com/LTF-UTF/LTF">Git 코드</a> · <a href="https://www.youtube.com/watch?v=5CpVqWKCEx4">시연 영상</a><br><a href="https://hoo2001.tistory.com/62">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/LTF-3b26d02f3953803689bae6cf72957a61?pvs=73">회고록</a></td>
     </tr>
     <tr>
-      <td align="center">2026.05.06<br>~ 2026.05.27</td>
+      <td align="center">2026</td>
       <td align="left"><strong>명조 모작</strong></td>
       <td align="left">UE 5.6<br>C++</td>
       <td align="center">3인 팀</td>
-      <td align="left"><a href="https://github.com/WuWa-NNNA/WuWa">저장소</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a><br><a href="https://hoo2001.tistory.com/61">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73">회고록</a></td>
+      <td align="left"><a href="https://github.com/WuWa-NNNA/WuWa">Git 코드</a> · <a href="https://www.youtube.com/watch?v=9skfkhyv1f4">시연 영상</a><br><a href="https://hoo2001.tistory.com/61">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3b76d02f395380adae71d0f26abe784b?pvs=73">회고록</a></td>
     </tr>
     <tr>
-      <td align="center">2026.03.24<br>~ 2026.04.06</td>
+      <td align="center">2026</td>
       <td align="left"><strong>Minecraft 모작</strong></td>
       <td align="left">UE 5.6<br>Blueprint</td>
       <td align="center">개인</td>
-      <td align="left"><a href="https://github.com/pch2001/Minecraft">저장소</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a><br><a href="https://hoo2001.tistory.com/47">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74">회고록</a></td>
+      <td align="left"><a href="https://github.com/pch2001/Minecraft">Git 코드</a> · <a href="https://www.youtube.com/watch?v=8Dv6HJHVmgk">시연 영상</a><br><a href="https://hoo2001.tistory.com/47">개발 기록</a> · <a href="https://oasis-alloy-d6e.notion.site/3a76d02f395380efa241f3edff860343?pvs=74">회고록</a></td>
     </tr>
     <tr>
       <td align="center">2026</td>
       <td align="left"><strong>이스라엘 디펜스</strong><br>C++ 콘솔 게임</td>
       <td align="left">C++</td>
       <td align="center">개인</td>
-      <td align="left"><a href="https://github.com/pch2001/Hoo_ConsoleEngine">저장소</a></td>
+      <td align="left"><a href="https://github.com/pch2001/Hoo_ConsoleEngine">Git 코드</a> · <a href="https://www.youtube.com/watch?v=bPuzSlUIzpk">시연 영상</a></td>
     </tr>
     <tr>
       <td align="center">2025</td>
       <td align="left"><strong>인생게임</strong><br>캡스톤 디자인</td>
       <td align="left">Unreal Engine</td>
       <td align="center">3인 팀</td>
-      <td align="left"><a href="https://github.com/Jinmiru/sw-capstone-design">저장소</a></td>
+      <td align="left"><a href="https://github.com/Jinmiru/sw-capstone-design">Git 코드</a> · <a href="https://www.youtube.com/watch?v=R9aDqsHigTw&amp;t=27s">시연 영상</a></td>
     </tr>
     <tr>
       <td align="center">2025</td>
       <td align="left"><strong>MaCook</strong><br>메이플스토리 직무 멘토링</td>
       <td align="left">Unity</td>
       <td align="center">5인 팀</td>
-      <td align="left"><a href="https://github.com/pch2001/MaCook">저장소</a></td>
+      <td align="left"><a href="https://github.com/pch2001/MaCook">Git 코드</a> · <a href="https://www.youtube.com/watch?v=Jda-X0ziyTk">시연 영상</a></td>
     </tr>
     <tr>
       <td align="center">2024 ~ 2025</td>
       <td align="left"><strong>BreathLine</strong><br>창업동아리 GR팀</td>
       <td align="left">Unity</td>
       <td align="center">8인 팀</td>
-      <td align="left"><a href="https://github.com/pch2001/BreathLine">저장소</a></td>
+      <td align="left"><a href="https://github.com/pch2001/BreathLine">Git 코드</a> · <a href="https://www.youtube.com/watch?v=r_FlLbikoHo&amp;t=60s">시연 영상</a></td>
     </tr>
     <tr>
       <td align="center">2024</td>
       <td align="left"><strong>VR ZombieGame</strong></td>
       <td align="left">Unity</td>
       <td align="center">개인</td>
-      <td align="left"><a href="https://www.youtube.com/watch?v=VV8J4VAQezw">시연 영상</a></td>
+      <td align="left"><a href="https://github.com/pch2001/ZoombieGame-VR-">Git 코드</a> · <a href="https://www.youtube.com/watch?v=VV8J4VAQezw">시연 영상</a></td>
     </tr>
     <tr>
       <td align="center">2024</td>
@@ -152,14 +152,14 @@ StateTree 기반 적 AI, 보스 공격 패턴, 보스 스킬과 전투 피드백
       <td align="left"><strong>LOL 동물특공대</strong></td>
       <td align="left">Unreal Engine</td>
       <td align="center">개인</td>
-      <td align="left"><a href="https://www.youtube.com/watch?v=VV8J4VAQezw">시연 영상</a></td>
+      <td align="left"><a href="https://github.com/pch2001/LOL">Git 코드</a> · <a href="https://www.youtube.com/watch?v=I8QUQ87MfYE">시연 영상</a></td>
     </tr>
     <tr>
       <td align="center">2024</td>
       <td align="left"><strong>MonsterHunter</strong></td>
       <td align="left">Unity</td>
       <td align="center">2인 팀<br>2/3일 해커톤</td>
-      <td align="left"><a href="https://www.youtube.com/watch?v=G9nH8kRrGDM">시연 영상</a></td>
+      <td align="left"><a href="https://github.com/pch2001/MonsterHunter">Git 코드</a> · <a href="https://www.youtube.com/watch?v=G9nH8kRrGDM">시연 영상</a></td>
     </tr>
   </tbody>
 </table>
